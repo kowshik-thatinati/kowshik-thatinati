@@ -87,7 +87,7 @@
 ## 🌟 Activities & Achievements
 
 - 🎨 **Arts Club Lead**, KMCE — coordinating events and leading a team
-- 🏅 **KMCE Project School Capstone** — scored 2nd highest individually in project defense interviews; team ranked 5th overall
+- 🏅 **KMCE Project School Capstone** — scored 2nd highest individually in project defense interviews; team ranked 1st.
 - 🌐 **FOSSEE, IIT Bombay** — Open Source Contributor (2024)
 - 🤖 **Google Agentic AI Hackathon** — owned the task-routing logic within a multi-agent prototype
 - 🏆 **NGIT Inter-College Hackathon** — ranked 7th among 200+ participants
