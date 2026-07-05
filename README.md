@@ -15,7 +15,7 @@
 - 🎓 Final-year B.Tech Computer Science student at Keshav Memorial College of Engineering (KMIT Group), 2023–2027
 - 🔬 2× Research Intern at IIT Tirupati — Federated Learning for Object Detection & Adversarial Robustness of Vision Models
 - 🧠 I build RAG systems, computer vision pipelines, and full-stack AI applications — not just notebooks
-- 🏆 Scored 2nd highest individually in KMCE's Project School capstone defense; team ranked 5th overall
+- 🏆 Scored 2nd highest individually in KMCE's Project School capstone defense; team ranked 1st
 - 🌱 Currently exploring agentic AI workflows with LangGraph and CrewAI
 - 💼 Open to AI/ML, Java, and SDE internships in Hyderabad (PPO-track)
 - ⚡ Fun fact: I also lead my college's Arts Club — turns out coordinating people isn't that different from coordinating distributed systems
